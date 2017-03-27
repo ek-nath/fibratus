@@ -33,3 +33,5 @@ See the [wiki](https://github.com/rabbitstack/fibratus/wiki/Running).
 [![OpenCollective](https://opencollective.com/fibratus/backers/badge.svg)](https://opencollective.com/fibratus) 
 [![OpenCollective](https://opencollective.com/fibratus/sponsors/badge.svg)](https://opencollective.com/fibratus)
 
+## Meta
+* Cloned repo for vs2017 and other dependency updates
